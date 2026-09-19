@@ -2,7 +2,7 @@
 
 # 宇宙云(YuZhou)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/yuzhou) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/yuzhou) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 宇宙云（YuZhou）提供直连与 IPLC 机场订阅，常见叫法包括“YuZhou VPN”“宇宙云梯子”和“宇宙云机场”。可将订阅导入兼容客户端，再使用其中的代理节点；选择时可先按预算和用量筛选方案，再核对机场页面公开的线路与解锁范围。
 
